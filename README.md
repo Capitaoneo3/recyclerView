@@ -15,7 +15,7 @@ RecyclerView makes it easy to efficiently display large sets of data. You supply
 
 <p align="center">
   <a href="http://www.apache.org/licenses/LICENSE-2.0">
-    <img src="http://www.apache.org/" alt="License APACHE">
+    <img src="http://www.apache.org/img/ASF20thAnniversary.jpg" alt="License APACHE">
   </a>
 </p>
 
@@ -30,7 +30,7 @@ RecyclerView makes it easy to efficiently display large sets of data. You supply
 
 ## Features
 [//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
+
 
 - ⚛️ **Java 8**
 - ⚛️ **RecyclerView** — https://developer.android.com/guide/topics/ui/layout/recyclerview.
