@@ -7,7 +7,7 @@
 RecyclerView
 </h1>
 
-<p align="center">Description</p>x
+<p align="center">Description</p>
 
 RecyclerView makes it easy to efficiently display large sets of data. You supply the data and define how each item looks, and the RecyclerView library dynamically creates the elements when they're needed.
 
